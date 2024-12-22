@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/pixelPusher03">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
+    <img src="https://ibb.co/g3GHW9C" width="610">
      
 </p>
 <h1 align="center"> Linah Livister (Beta)
